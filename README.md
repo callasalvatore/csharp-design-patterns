@@ -55,3 +55,20 @@ Each folder contains:
 git clone https://github.com/your-username/CSharp-Design-Patterns.git
 cd CSharp-Design-Patterns
 dotnet build
+```
+
+To run a specific pattern demo:
+
+```bash
+cd Creational/Singleton
+dotnet run
+```
+
+# 🧠 Why Design Patterns?
+
+Design patterns are proven solutions to recurring problems in software design.
+They help make your code more flexible, reusable, and easier to maintain.
+
+Happy coding! 🎯
+
+I want you to know that contributions and suggestions are welcome.
