@@ -23,10 +23,7 @@ public class Singleton
         {
             lock (_lock)
             {
-                if (_instance == null)
-                {
-                    _instance = new Singleton();
-                }
+                _instance ??= new Singleton();
             }
 
             return _instance;
@@ -64,6 +61,7 @@ lock (_lock)
 ⚠️ This pattern introduces a small performance overhead due to locking, 
 but it's generally negligible unless the Instance property is accessed extremely frequently in performance-critical paths.
 
+🧠 Locking on the value of a private static variable prevents performace issues and deadlocks.
 ---
 
 ## 🚨 How is it different from the basic version?

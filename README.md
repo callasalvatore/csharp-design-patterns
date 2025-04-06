@@ -11,6 +11,7 @@ The patterns are grouped into the following categories:
   Deal with object creation mechanisms.
   - Singleton
     - [Basic](Creational/Singleton.Basic/README.md)
+    - [Thread Safe](Creational/Singleton.ThreadSafe/README.md)
   - Factory Method
   - Abstract Factory
   - Builder
