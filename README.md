@@ -10,6 +10,7 @@ The patterns are grouped into the following categories:
 - **Creational Patterns**  
   Deal with object creation mechanisms.
   - Singleton
+    - [Basic](Creational/Singleton.Basic/README.md)
   - Factory Method
   - Abstract Factory
   - Builder
