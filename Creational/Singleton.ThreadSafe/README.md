@@ -64,7 +64,7 @@ but it's generally negligible unless the Instance property is accessed extremely
 🧠 Locking on the value of a private static variable prevents performace issues and deadlocks.
 ---
 
-## 🚨 How is it different from the basic version?
+## 💡 How is it different from the basic version?
 
 | Basic Singleton                            | Thread-Safe Singleton                             |
 |--------------------------------------------|--------------------------------------------------|
