@@ -18,8 +18,8 @@ You're relying on the CLR to initialize that static field exactly once, when the
 
 The CLR follows the .NET type initialization guarantees, which are defined by the ECMA specification for the CLI (Common Language Infrastructure). Here's what it says:
 
-✅ The CLR guarantees:
-“A type initializer (also called a static constructor or .cctor) is executed once and only once, per AppDomain, and is guaranteed to be thread-safe.”
+The CLR guarantees:
+> A type initializer (also called a static constructor or .cctor) is executed once and only once, per AppDomain, and is guaranteed to be thread-safe.
 
 That means:
 
