@@ -13,6 +13,7 @@ The patterns are grouped into the following categories:
     - [Basic](Creational/Singleton.Basic/README.md)
     - [Thread Safe](Creational/Singleton.ThreadSafe/README.md)
     - [Thread Safe Double Check](Creational/Singleton.ThreadSafe.DoubleCheck/README.md)
+    - [Thread Safe No Lock](Creational/Singleton.ThreadSafe.NoLock/README.md)
   - Factory Method
   - Abstract Factory
   - Builder
