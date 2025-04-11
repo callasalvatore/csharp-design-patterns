@@ -68,7 +68,3 @@ This version creates the instance **even if it's never accessed**, which could b
 If lazy instantiation is important, consider using:
 - **Double-checked locking** (as in the previous version), or
 - **Lazy<T>** (recommended and idiomatic in modern C#)
-
----
-
-## ⏭ Next: [Singleton with Lazy<T> ➡](../Singleton.Lazy/)
