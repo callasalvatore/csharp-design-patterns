@@ -1,5 +1,8 @@
 # C# Design Patterns
 
+> [!WARNING]  
+> This repository is a work in progress. More patterns will be added soon.
+
 This repository contains examples of common design patterns implemented in C#.  
 Each pattern is organized by category and includes a simple, focused implementation with inline explanations.
 
