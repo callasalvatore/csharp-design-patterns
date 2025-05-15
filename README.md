@@ -18,7 +18,7 @@ The patterns are grouped into the following categories:
     - [Thread Safe Double Check](Creational/Singleton.ThreadSafe.DoubleCheck/README.md)
     - [Thread Safe No Lock](Creational/Singleton.ThreadSafe.NoLock/README.md)
     - [Thread Safe Lazy](Creational/Singleton.ThreadSafe.Lazy/README.md)
-  - Factory Method
+  - [Factory Method](Creational/FactoryMethod/README.md)
   - Abstract Factory
   - Builder
   - Prototype

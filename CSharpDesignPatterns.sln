@@ -22,6 +22,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton.ThreadSafe.NoLock
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton.ThreadSafe.Lazy", "Creational\Singleton.ThreadSafe.Lazy\Singleton.ThreadSafe.Lazy.csproj", "{B7361927-B69B-4FF1-B3DE-90C56C9E0C91}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod", "Creational\FactoryMethod\FactoryMethod.csproj", "{6B495F7B-9902-441E-BEFE-0180680ADCB6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,6 +50,10 @@ Global
 		{B7361927-B69B-4FF1-B3DE-90C56C9E0C91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7361927-B69B-4FF1-B3DE-90C56C9E0C91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7361927-B69B-4FF1-B3DE-90C56C9E0C91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B495F7B-9902-441E-BEFE-0180680ADCB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B495F7B-9902-441E-BEFE-0180680ADCB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B495F7B-9902-441E-BEFE-0180680ADCB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B495F7B-9902-441E-BEFE-0180680ADCB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -58,5 +64,6 @@ Global
 		{A4CB47EF-4EDA-492F-865F-DB9CE9DD42B7} = {293EDD8C-2932-490C-BC91-4849685D2EC6}
 		{EA4D2F69-F992-4940-B8C7-6C7439570966} = {293EDD8C-2932-490C-BC91-4849685D2EC6}
 		{B7361927-B69B-4FF1-B3DE-90C56C9E0C91} = {293EDD8C-2932-490C-BC91-4849685D2EC6}
+		{6B495F7B-9902-441E-BEFE-0180680ADCB6} = {293EDD8C-2932-490C-BC91-4849685D2EC6}
 	EndGlobalSection
 EndGlobal
