@@ -37,7 +37,7 @@ The patterns are grouped into the following categories:
   Deal with communication between objects.
   - [Chain of Responsibility](Behavioral/ChainOfResponsibility/README.md)
   - [Command](Behavioral/Command/README.md)
-  - Interpreter
+  - [Interpreter](Behavioral/Interpreter/README.md)
   - Iterator
   - Mediator
   - Memento
