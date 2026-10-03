@@ -28,7 +28,7 @@ The patterns are grouped into the following categories:
   - [Adapter](Structural/Adapter/README.md)
   - [Bridge](Structural/Bridge/README.md)
   - [Composite](Structural/Composite/README.md)
-  - Decorator
+  - [Decorator](Structural/Decorator/README.md)
   - Facade
   - Flyweight
   - Proxy
