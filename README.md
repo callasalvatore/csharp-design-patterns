@@ -43,7 +43,7 @@ The patterns are grouped into the following categories:
   - [Memento](Behavioral/Memento/README.md)
   - [Observer](Behavioral/Observer/README.md)
   - [State](Behavioral/State/README.md)
-  - Strategy
+  - [Strategy](Behavioral/Strategy/README.md)
   - Template Method
   - Visitor
 
