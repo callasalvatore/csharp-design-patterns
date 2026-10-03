@@ -45,7 +45,7 @@ The patterns are grouped into the following categories:
   - [State](Behavioral/State/README.md)
   - [Strategy](Behavioral/Strategy/README.md)
   - [Template Method](Behavioral/TemplateMethod/README.md)
-  - Visitor
+  - [Visitor](Behavioral/Visitor/README.md)
 
 Each folder contains:
 - A simple C# console app demonstrating the pattern.
