@@ -29,7 +29,7 @@ The patterns are grouped into the following categories:
   - [Bridge](Structural/Bridge/README.md)
   - [Composite](Structural/Composite/README.md)
   - [Decorator](Structural/Decorator/README.md)
-  - Facade
+  - [Facade](Structural/Facade/README.md)
   - Flyweight
   - Proxy
 
