@@ -39,7 +39,7 @@ The patterns are grouped into the following categories:
   - [Command](Behavioral/Command/README.md)
   - [Interpreter](Behavioral/Interpreter/README.md)
   - [Iterator](Behavioral/Iterator/README.md)
-  - Mediator
+  - [Mediator](Behavioral/Mediator/README.md)
   - Memento
   - Observer
   - State
