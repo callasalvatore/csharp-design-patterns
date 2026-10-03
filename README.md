@@ -31,7 +31,7 @@ The patterns are grouped into the following categories:
   - [Decorator](Structural/Decorator/README.md)
   - [Facade](Structural/Facade/README.md)
   - [Flyweight](Structural/Flyweight/README.md)
-  - Proxy
+  - [Proxy](Structural/Proxy/README.md)
 
 - **Behavioral Patterns**  
   Deal with communication between objects.
