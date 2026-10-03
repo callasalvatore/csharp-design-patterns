@@ -21,7 +21,7 @@ The patterns are grouped into the following categories:
   - [Factory Method](Creational/FactoryMethod/README.md)
   - [Abstract Factory](Creational/AbstractFactory/README.md)
   - [Builder](Creational/Builder/README.md)
-  - Prototype
+  - [Prototype](Creational/Prototype/README.md)
 
 - **Structural Patterns**  
   Deal with object composition and relationships.
