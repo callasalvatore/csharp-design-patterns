@@ -30,7 +30,7 @@ The patterns are grouped into the following categories:
   - [Composite](Structural/Composite/README.md)
   - [Decorator](Structural/Decorator/README.md)
   - [Facade](Structural/Facade/README.md)
-  - Flyweight
+  - [Flyweight](Structural/Flyweight/README.md)
   - Proxy
 
 - **Behavioral Patterns**  
