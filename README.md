@@ -26,7 +26,7 @@ The patterns are grouped into the following categories:
 - **Structural Patterns**  
   Deal with object composition and relationships.
   - [Adapter](Structural/Adapter/README.md)
-  - Bridge
+  - [Bridge](Structural/Bridge/README.md)
   - Composite
   - Decorator
   - Facade
