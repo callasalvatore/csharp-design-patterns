@@ -35,7 +35,7 @@ The patterns are grouped into the following categories:
 
 - **Behavioral Patterns**  
   Deal with communication between objects.
-  - Chain of Responsibility
+  - [Chain of Responsibility](Behavioral/ChainOfResponsibility/README.md)
   - Command
   - Interpreter
   - Iterator

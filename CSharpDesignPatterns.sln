@@ -32,6 +32,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype", "Creational\Pro
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Structural", "Structural", "{3D94367B-6CF5-49A3-BFB1-8F570059EB00}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Behavioral", "Behavioral", "{1367AA8D-DBE6-4001-86DA-B2B9AEABC5B7}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Structural\Adapter\Adapter.csproj", "{F87E0403-F67B-46A7-9D35-CDC50181043A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge", "Structural\Bridge\Bridge.csproj", "{49FF9FF4-9E7E-4C0E-8476-C01BC9E48B47}"
@@ -45,6 +47,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flyweight", "Structural\Flyweight\Flyweight.csproj", "{68F31A6B-E1B7-46B6-B995-0D6762D0F14C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy", "Structural\Proxy\Proxy.csproj", "{CA43383F-1D7A-44C1-851C-820A87C69712}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibility", "Behavioral\ChainOfResponsibility\ChainOfResponsibility.csproj", "{C5267427-898E-4ECD-B095-81900C9AC939}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -116,6 +120,10 @@ Global
 		{CA43383F-1D7A-44C1-851C-820A87C69712}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA43383F-1D7A-44C1-851C-820A87C69712}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA43383F-1D7A-44C1-851C-820A87C69712}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5267427-898E-4ECD-B095-81900C9AC939}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5267427-898E-4ECD-B095-81900C9AC939}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5267427-898E-4ECD-B095-81900C9AC939}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5267427-898E-4ECD-B095-81900C9AC939}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -137,5 +145,6 @@ Global
 		{83A602D6-DB09-4B41-9646-37187586EE6B} = {3D94367B-6CF5-49A3-BFB1-8F570059EB00}
 		{68F31A6B-E1B7-46B6-B995-0D6762D0F14C} = {3D94367B-6CF5-49A3-BFB1-8F570059EB00}
 		{CA43383F-1D7A-44C1-851C-820A87C69712} = {3D94367B-6CF5-49A3-BFB1-8F570059EB00}
+		{C5267427-898E-4ECD-B095-81900C9AC939} = {1367AA8D-DBE6-4001-86DA-B2B9AEABC5B7}
 	EndGlobalSection
 EndGlobal
