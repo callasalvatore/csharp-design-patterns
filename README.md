@@ -38,7 +38,7 @@ The patterns are grouped into the following categories:
   - [Chain of Responsibility](Behavioral/ChainOfResponsibility/README.md)
   - [Command](Behavioral/Command/README.md)
   - [Interpreter](Behavioral/Interpreter/README.md)
-  - Iterator
+  - [Iterator](Behavioral/Iterator/README.md)
   - Mediator
   - Memento
   - Observer
