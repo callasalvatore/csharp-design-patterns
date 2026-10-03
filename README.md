@@ -44,7 +44,7 @@ The patterns are grouped into the following categories:
   - [Observer](Behavioral/Observer/README.md)
   - [State](Behavioral/State/README.md)
   - [Strategy](Behavioral/Strategy/README.md)
-  - Template Method
+  - [Template Method](Behavioral/TemplateMethod/README.md)
   - Visitor
 
 Each folder contains:
