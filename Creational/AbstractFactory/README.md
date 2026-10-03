@@ -64,6 +64,6 @@ checkbox.Render();
 
 ## 🔄 Alternatives & Related Patterns
 
-- Use **[Factory Method](Creational/FactoryMethod/README.md)** when only one product is needed.
+- Use **[Factory Method](../FactoryMethod/README.md)** when only one product is needed.
 - Combine with Dependency Injection for runtime flexibility.
 - Use Builder Pattern if construction of individual products is complex.

@@ -1,9 +1,6 @@
 # C# Design Patterns
 
-> [!WARNING]  
-> This repository is a work in progress. More patterns will be added soon.
-
-This repository contains examples of common design patterns implemented in C#.  
+This repository contains examples of the 23 GoF design patterns implemented in C#.  
 Each pattern is organized by category and includes a simple, focused implementation with inline explanations.
 
 ## 📁 Structure
@@ -48,8 +45,8 @@ The patterns are grouped into the following categories:
   - [Visitor](Behavioral/Visitor/README.md)
 
 Each folder contains:
-- A simple C# console app demonstrating the pattern.
-- A brief explanation of how it works.
+- A simple C# console app demonstrating the pattern with a concrete example.
+- A README explaining how it works, with a UML diagram and the demo output.
 - Code comments for clarity.
 
 ## ✅ Requirements
@@ -60,16 +57,15 @@ Each folder contains:
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/your-username/CSharp-Design-Patterns.git
-cd CSharp-Design-Patterns
+git clone https://github.com/callasalvatore/csharp-design-patterns.git
+cd csharp-design-patterns
 dotnet build
 ```
 
 To run a specific pattern demo:
 
 ```bash
-cd Creational/Singleton
-dotnet run
+dotnet run --project Behavioral/Observer
 ```
 
 # 🧠 Why Design Patterns?
