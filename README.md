@@ -40,7 +40,7 @@ The patterns are grouped into the following categories:
   - [Interpreter](Behavioral/Interpreter/README.md)
   - [Iterator](Behavioral/Iterator/README.md)
   - [Mediator](Behavioral/Mediator/README.md)
-  - Memento
+  - [Memento](Behavioral/Memento/README.md)
   - Observer
   - State
   - Strategy
