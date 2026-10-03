@@ -27,7 +27,7 @@ The patterns are grouped into the following categories:
   Deal with object composition and relationships.
   - [Adapter](Structural/Adapter/README.md)
   - [Bridge](Structural/Bridge/README.md)
-  - Composite
+  - [Composite](Structural/Composite/README.md)
   - Decorator
   - Facade
   - Flyweight
